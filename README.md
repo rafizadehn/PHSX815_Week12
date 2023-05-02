@@ -24,7 +24,7 @@ This runs the file with the default parameters which is seed number 555 for the 
 
 For example, it may looks something like this in linux:
 
-> $ python3 kmeans.py -seed 486 -Nexp 1000
+> $ python3 Kernel.py -seed 486 -Nexp 1000
 
 which would run the algorithm with an initial seed value of 486 instead of the default 555 and the number of experiments as 1000 instead of the default 100.
 
